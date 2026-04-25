@@ -1,0 +1,5 @@
+train: Pothole detection/train/images
+val: Pothole detection/valid/images
+
+nc: 1 # number of classes => number of objects it has to classify
+names: ['pothole']
